@@ -28,7 +28,8 @@ const Header = () => {
             </NavItem>
             <NavItem>
               <Link className="link"
-        to="/">
+        to="/task
+       ">
                 TASK
               </Link>
             </NavItem>
